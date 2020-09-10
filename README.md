@@ -1,1 +1,1 @@
-this is my first proyec 
+# This file is mandatory in all Holberton School projects 
